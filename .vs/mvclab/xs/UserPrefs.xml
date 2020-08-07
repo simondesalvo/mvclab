@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{109C4BBC-AC17-45F6-BAE6-24EA5F5C3EDE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CountryView.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="14" />
+      <File FileName="Country.cs" Line="18" Column="10" />
+      <File FileName="CountryView.cs" Line="11" Column="10" />
+      <File FileName="CountryListView.cs" Line="9" Column="56" />
+      <File FileName="Continent.cs" Line="2" Column="34" />
+      <File FileName="CountryController.cs" Line="22" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.mvclab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

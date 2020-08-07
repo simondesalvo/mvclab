@@ -1,0 +1,12 @@
+/Users/simon/Documents/GrandCircus/mvclab/bin/Debug/netcoreapp3.1/mvclab.deps.json
+/Users/simon/Documents/GrandCircus/mvclab/bin/Debug/netcoreapp3.1/mvclab.runtimeconfig.json
+/Users/simon/Documents/GrandCircus/mvclab/bin/Debug/netcoreapp3.1/mvclab.runtimeconfig.dev.json
+/Users/simon/Documents/GrandCircus/mvclab/bin/Debug/netcoreapp3.1/mvclab.dll
+/Users/simon/Documents/GrandCircus/mvclab/bin/Debug/netcoreapp3.1/mvclab.pdb
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.csprojAssemblyReference.cache
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.AssemblyInfoInputs.cache
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.AssemblyInfo.cs
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.csproj.CoreCompileInputs.cache
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.dll
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.pdb
+/Users/simon/Documents/GrandCircus/mvclab/obj/Debug/netcoreapp3.1/mvclab.genruntimeconfig.cache
